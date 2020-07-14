@@ -61,7 +61,7 @@
     <dependency>
       <groupId>com.alibaba</groupId>
       <artifactId>fastjson</artifactId>
-      <version>1.2.16</version>
+      <version>[1.2.31,)</version>
     </dependency>
 	
 	<!--在用maven 编译，打包过程中回出现javax.servlet找不到的情况，所以需要在这里配置-->
